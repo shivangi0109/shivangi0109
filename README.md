@@ -8,7 +8,7 @@
 
 I'm a dedicated full stack developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the tech world involves creating seamless web applications and exploring the endless possibilities of the digital realm
 
-<img align="right" alt="GIF" src="" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
