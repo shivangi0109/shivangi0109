@@ -20,7 +20,7 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about full stack development;
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shivangisrivastavadev@gmail.com;
 
-</br>
+<br clear="both">
 
 <h3>Things I code with</h3>
 <p>
@@ -55,8 +55,6 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
 </p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://github.com/shivangi0109/shivangi0109/">
