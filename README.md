@@ -58,12 +58,13 @@ Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCL
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-434567?style=flat-square&logo=cypress&logoColor=white" />
 </p>
 
+<br clear="both">
+
+<h3 align="center">📈 My GitHub Stats:</h3>
 <div align="center">
   <a href="https://github.com/shivangi0109/shivangi0109/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi0109&show_icons=true&bg_color=transparent&title_color=ff00ff&locale=en&layout=compact" height="200" alt="My Most Used Languages" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/shivangi0109/shivangi0109/">
   <img src="https://github-readme-stats.vercel.app/api?username=shivangi0109&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=transparent&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" height="200" alt="My GitHub Stats" />
   </a>
