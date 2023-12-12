@@ -2,7 +2,7 @@
 Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 </h1>
 
-<p align="center">🚀 Full Stack Developer | 🌐 Web Enthusiast | 🌈 JavaScript, React, Node, CSS, Express, Ruby on Rails | 🧙‍♂️ Database Wizard with SQL & Postgresql</p>
+<p align="center">🚀 Full Stack Developer | 🌐 Web Enthusiast | 🌈 JavaScript, React, Node, CSS, Express, Ruby on Rails | 🧙‍♂️ Database Wizard with SQL & Postgresql | Testing</p>
 
 <h3 align="center">Glad to see you here!</h3>
 
