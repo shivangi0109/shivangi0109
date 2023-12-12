@@ -40,7 +40,7 @@ Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCL
   <img alt="Ruby on Rails" height="25" src="https://img.shields.io/badge/-Ruby_on_Rails-430098?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   <img alt="Bootstrap" height="25" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Postman" height="25" src="https://img.shields.io/badge/-Postman-B7178C?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Git" height="25" src="https://img.shields.io/badge/-Git-E10098?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Vue" height="25" src="https://img.shields.io/badge/-Vue-E10098?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Github" height="25" src="https://img.shields.io/badge/-Github-db7092?style=flat-square&logo=github&logoColor=white" />
   <img alt="git" height="25" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Bash" height="25" src="https://img.shields.io/badge/-Bash-DD0031?style=flat-square&logo=gnubash&logoColor=white" />
