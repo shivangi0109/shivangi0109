@@ -20,18 +20,15 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
 
 </br>
 
+###
 
-<!--
-**shivangi0109/shivangi0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/shivangi0109/shivangi0109/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi0109&show_icons=true&bg_color=transparent&title_color=ff00ff&locale=en&layout=compact" height="150" alt="My Most Used Languages" />
+  </a>
+  <a href="https://github.com/shivangi0109/shivangi0109/">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangi0109&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=transparent&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" height="150" alt="My GitHub Stats" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
