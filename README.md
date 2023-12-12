@@ -24,10 +24,10 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
 
 <div align="center">
   <a href="https://github.com/shivangi0109/shivangi0109/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi0109&show_icons=true&bg_color=transparent&title_color=ff00ff&locale=en&layout=compact" height="150" alt="My Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi0109&show_icons=true&bg_color=transparent&title_color=ff00ff&locale=en&layout=compact" height="200" alt="My Most Used Languages" />
   </a>
   <a href="https://github.com/shivangi0109/shivangi0109/">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangi0109&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=transparent&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" height="150" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangi0109&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=transparent&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" height="200" alt="My GitHub Stats" />
   </a>
 </div>
 
