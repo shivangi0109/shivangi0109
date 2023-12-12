@@ -14,14 +14,15 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently exploring new frameworks and online courses;
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently exploring new frameworks and online courses
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I am enthusiastic about continuous learning and welcome new challenges that contribute to my personal and professional growth
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; All of my projects are available at [https://github.com/shivangi0109](https://github.com/shivangi0109)
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about full stack development;
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shivangisrivastavadev@gmail.com;
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about full stack development
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shivangisrivastavadev@gmail.com
 
 <br>
-<br>
+<br clear="both">
 
 <h3>Things I code with</h3>
 <p>
