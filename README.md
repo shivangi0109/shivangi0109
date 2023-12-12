@@ -1,18 +1,16 @@
-### <samp>&gt; Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h1 align="center">
+Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+</h1>
 
-🚀 Full Stack Developer | 🌐 Web Enthusiast | 🌈 JavaScript, React, Node, CSS, Express, Ruby on Rails | 🧙‍♂️ Database Wizard with SQL & Postgresql
+<p align="center">🚀 Full Stack Developer | 🌐 Web Enthusiast | 🌈 JavaScript, React, Node, CSS, Express, Ruby on Rails | 🧙‍♂️ Database Wizard with SQL & Postgresql</p>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/shivangi0109" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shivangi0109" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+<h3 align="center">Glad to see you here!</h3>
 
-### Glad to see you here! &nbsp;
+<p align="center">I'm a dedicated full stack developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the tech world involves creating seamless web applications and exploring the endless possibilities of the digital realm</p>
 
-I'm a dedicated full stack developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the tech world involves creating seamless web applications and exploring the endless possibilities of the digital realm
+<h3 align="center">Talking about Personal Stuffs:</h3>
 
 <img align="right" alt="GIF" src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
-
-**Talking about Personal Stuffs:**
 
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
 
@@ -28,7 +26,7 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
 
 <br clear="both">
 
-<h3>Things I code with</h3>
+<h3 align="center">Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-8DD6F9?style=flat-square&logo=javascript&logoColor=white" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -60,15 +58,21 @@ I'm a dedicated full stack developer with a knack for turning ideas into reality
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-434567?style=flat-square&logo=cypress&logoColor=white" />
 </p>
 
-###
-
 <div align="center">
   <a href="https://github.com/shivangi0109/shivangi0109/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi0109&show_icons=true&bg_color=transparent&title_color=ff00ff&locale=en&layout=compact" height="200" alt="My Most Used Languages" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/shivangi0109/shivangi0109/">
   <img src="https://github-readme-stats.vercel.app/api?username=shivangi0109&custom_title=My%20GitHub%20Stats&show_icons=true&hide_rank=true&bg_color=transparent&title_color=ff00ff&icon_color=800080&hide=stars&locale=en" height="200" alt="My GitHub Stats" />
   </a>
+</div>
+
+<div align="center">
+  <h3>Where to find me</h3>
+  <p><a href="https://github.com/shivangi0109" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shivangi0109" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  </p>
 </div>
 
 <br clear="both">
