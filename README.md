@@ -16,7 +16,7 @@ Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCL
 
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
 
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I am enthusiastic about continuous learning and welcome new challenges that contribute to my personal and professional growth.
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/code.gif?raw=true" width="21" />&nbsp;&nbsp; I am enthusiastic about continuous learning and welcome new challenges that contribute to my personal and professional growth.
 
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/handshake.gif?raw=true" width="21" />&nbsp;&nbsp; I'm open to collaborating on projects.
 
