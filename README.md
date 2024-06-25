@@ -12,9 +12,9 @@ Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCL
 
 <img align="right" alt="GIF" src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
 
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning and expanding knowledge on Data Structures and Algorithms.
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning and expanding knowledge on Data Structures and Algorithms and AWS.
 
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
+- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently building web application with React, utilizing Redux Toolkit for state management and Thunks for asynchronous logic which demonstrates advanced front-end development techniques and efficient state handling.
 
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/code.gif?raw=true" width="21" />&nbsp;&nbsp; I am enthusiastic about continuous learning and welcome new challenges that contribute to my personal and professional growth.
 
