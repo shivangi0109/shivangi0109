@@ -16,19 +16,19 @@ Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCL
 
 <h3 align="center">🚀 What I Do</h3>
 
-- <h4> Full Stack Development - </h4> <p align="center">Building web applications using modern frameworks.</p>
+- **Full Stack Development:** Building web applications using modern frameworks.
 
-- <h4> DevOps & Cloud - </h4> <p align="center">Learning AWS, Infrastructure as Code (Terraform), and automation tools.</p>
+- **DevOps & Cloud:** Learning AWS, Infrastructure as Code (Terraform), and automation tools.
 
-- <h4> CI/CD & Containerization - </h4> <p align="center">Exploring Docker, Kubernetes, and automation pipelines.</p>
+- **CI/CD & Containerization:** Exploring Docker, Kubernetes, and automation pipelines.
   
 <h3 align="center">📚 Currently Learning</h3>
 
-- <h4> DevOps Tools: </h4> <p align="center">AWS, Terraform, Ansible, CI/CD, Shell Scripting.</p>
+- **DevOps Tools:** AWS, Terraform, Ansible, CI/CD, Shell Scripting.
 
-- <h4> Cloud & Automation: </h4> <p align="center">Deploying scalable applications using cloud-native technologies.</p>
+- **Cloud & Automation:** Deploying scalable applications using cloud-native technologies.
 
-- <h4> Data Structures & Algorithms: </h4> <p align="center">Enhancing problem-solving skills.</p>
+- **Data Structures & Algorithms:** Enhancing problem-solving skills.
 
 <h3 align="center">Talking about Personal Stuffs:</h3>
 
