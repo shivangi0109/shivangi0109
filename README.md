@@ -2,19 +2,41 @@
 Hi there, I'm Shivangi Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 </h1>
 
-<p align="center">🚀 Full Stack Developer | 🌐 Web Enthusiast | 🌈 JavaScript, React, Node, CSS, Express, Ruby on Rails | 🧙‍♂️ Database Wizard with SQL & Postgresql | Testing</p>
+<p align="center">🚀 Full Stack Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud & Automation Learner
 
-<h3 align="center">Glad to see you here!</h3>
+</p>
 
-<p align="center">I'm a dedicated full stack developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the tech world involves creating seamless web applications and exploring the endless possibilities of the digital realm</p>
+<h3 align="center">💡 Tech Stack</h3>
+
+<p align="center">JavaScript, React, Node.js, Express, Ruby on Rails, SQL, PostgreSQL, Docker, Kubernetes, AWS, Terraform, Ansible, CI/CD, Shell Scripting, Python.</p>
+
+<!-- <h3 align="center">Glad to see you here!</h3>
+
+<p align="center">I'm a dedicated full stack developer with a knack for turning ideas into reality through elegant and efficient code. My journey in the tech world involves creating seamless web applications and exploring the endless possibilities of the digital realm</p> -->
+
+<h3 align="center">🚀 What I Do</h3>
+
+- <h4> Full Stack Development - </h4> <p align="center">Building web applications using modern frameworks.</p>
+
+- <h4> DevOps & Cloud - </h4> <p align="center">Learning AWS, Infrastructure as Code (Terraform), and automation tools.</p>
+
+- <h4> CI/CD & Containerization - </h4> <p align="center">Exploring Docker, Kubernetes, and automation pipelines.</p>
+  
+<h3 align="center">📚 Currently Learning</h3>
+
+- <h4> DevOps Tools: </h4> <p align="center">AWS, Terraform, Ansible, CI/CD, Shell Scripting.</p>
+
+- <h4> Cloud & Automation: </h4> <p align="center">Deploying scalable applications using cloud-native technologies.</p>
+
+- <h4> Data Structures & Algorithms: </h4> <p align="center">Enhancing problem-solving skills.</p>
 
 <h3 align="center">Talking about Personal Stuffs:</h3>
 
 <img align="right" alt="GIF" src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
 
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning and expanding knowledge on Data Structures and Algorithms and AWS.
+<!-- - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning and expanding knowledge on Data Structures and Algorithms and AWS. -->
 
-- <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently building web application with React, utilizing Redux Toolkit for state management and Thunks for asynchronous logic which demonstrates advanced front-end development techniques and efficient state handling.
+<!-- - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently building web application with React, utilizing Redux Toolkit for state management and Thunks for asynchronous logic which demonstrates advanced front-end development techniques and efficient state handling. -->
 
 - <img src="https://github.com/shivangi0109/shivangi0109/blob/main/assets/code.gif?raw=true" width="21" />&nbsp;&nbsp; I am enthusiastic about continuous learning and welcome new challenges that contribute to my personal and professional growth.
 
